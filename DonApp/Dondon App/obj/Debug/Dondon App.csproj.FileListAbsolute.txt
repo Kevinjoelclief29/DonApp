@@ -1,0 +1,193 @@
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Dondon App.exe.config
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Dondon App.exe
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Dondon App.pdb
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Azure.Core.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Azure.Identity.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Google.Protobuf.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Google.Protobuf.pdb
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\MySql.Data.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Buffers.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.IO.Pipelines.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Memory.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Memory.Data.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Security.Permissions.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Text.Json.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\System.ValueTuple.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\ZstdSharp.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.AssemblyReference.cache
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.SuggestedBindingRedirects.cache
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.exe.config
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Profile.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Menu.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Login.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Properties.Resources.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.GenerateResource.cache
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.CoreCompileInputs.cache
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.CopyComplete
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.exe
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon App.pdb
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Home.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.HomeBanner.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuAyam.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuDaging.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuMinuman.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuPromo.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.History.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Order.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.ChangesPassword.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\bin\Debug\stdole.dll
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Report.resources
+C:\Users\XName\source\repos\Dondon App\Dondon App\obj\Debug\Dondon_App.Reedem.resources
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Dondon App.exe.config
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Dondon App.exe
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Dondon App.pdb
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Azure.Core.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Azure.Identity.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\BouncyCastle.Crypto.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Google.Protobuf.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Google.Protobuf.pdb
+D:\VisPro\Dondon App\Dondon App\bin\Debug\K4os.Compression.LZ4.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\K4os.Hash.xxHash.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\VisPro\Dondon App\Dondon App\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Identity.Client.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\MySql.Data.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Ubiety.Dns.Core.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Zstandard.Net.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Buffers.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Memory.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Memory.Data.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Numerics.Vectors.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Security.AccessControl.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Security.Permissions.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Security.Principal.Windows.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Text.Encodings.Web.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Text.Json.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\System.ValueTuple.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VisPro\Dondon App\Dondon App\bin\Debug\stdole.dll
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.AssemblyReference.cache
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.SuggestedBindingRedirects.cache
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.exe.config
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.ChangesPassword.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.History.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Home.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.HomeBanner.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuAyam.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuDaging.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuMinuman.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.MenuPromo.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Order.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Profile.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Menu.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Login.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Properties.Resources.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Reedem.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon_App.Report.resources
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.GenerateResource.cache
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.CoreCompileInputs.cache
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.csproj.CopyComplete
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.exe
+D:\VisPro\Dondon App\Dondon App\obj\Debug\Dondon App.pdb
+D:\VisPro\Dondon App\Dondon App\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
